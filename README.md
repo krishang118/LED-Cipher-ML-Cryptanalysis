@@ -87,7 +87,4 @@ Contributions are welcome!
 ## License
 
 Distributed under the MIT License. 
-
-LED-Cipher-ML-Cryptanalysis
-A machine learning-based cryptanalysis of the LED Block Cipher using neural networks to evaluate its resistance against statistical pattern-recognition attacks.
-     
+    
